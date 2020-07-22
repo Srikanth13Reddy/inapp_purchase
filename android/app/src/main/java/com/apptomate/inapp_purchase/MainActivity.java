@@ -1,0 +1,6 @@
+package com.apptomate.inapp_purchase;
+
+import io.flutter.embedding.android.FlutterActivity;
+
+public class MainActivity extends FlutterActivity {
+}
